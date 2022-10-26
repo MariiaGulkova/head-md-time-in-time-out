@@ -1,6 +1,6 @@
 #second readme
 ## Relate to time
-Martina (38)
+### Martina (38)
 When I think about time, I think about the count, its like a way how we put things in order
 I think it's like a relative 
 

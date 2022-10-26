@@ -53,3 +53,21 @@ It feels like, the time it's never going to be enough to do all I want. I'm a li
 
 Time is a perception that helps us find our bearings and interact with other people.  It's a bit of a mysterious concept that seems to change depending on our state of mind (it's relative).  Often it serves to remind us that nothing is forever and it can bring both fear and relief.
 I feel a little disoriented about time, I know my time on earth is limited but I don't know yet how I'm going to use it.  I feel like I have time to do a lot of things but at the same time I feel like I won't be able to do everything.  It's confusing.
+
+## Alexandra (46)
+
+Time is the most valuable thing for me, and time is money for me also. I am very sensitive to time and how it goes. And depending on the situation, when you want things to happen faster, time flies  slower, and on the opposite, when you want things to happen slower, time flies faster
+
+## Julia (55)
+
+For me, time is infinity, but without a return, those are irreversible
+
+## Saul (19)
+
+Well, for me time is the measurement of the succession events, one after another. And it feels different depending on what you are doing. It's going fast or slow. As the Theory of relativity says. I also have heard that it's also called the 4th dimension.
+It has the characteristic of being completely continuous and unstoppable, somehow swallowing everything in its path. It can be terrifying to know that in a certain way nothing is really certain of being, since time is destroying and creating lots of scenarios every second, scenarios and situations that will never be repeated in exactly the same way, gradually approaching the end of all. However, we can see our daily life having only the present without staying in the past or anticipating the future, but living each moment fully attending to the context of that moment. However, we can see our life only paying attention to the present, not staying in the past, or thinking of the future but plenty living each moment, according to the context of that specific moment
+
+## Peregrin (46)
+
+Everything in this world is relative.  For example, the length of a minute depends on which side of the toilet door you are on.
+

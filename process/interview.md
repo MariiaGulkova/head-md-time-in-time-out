@@ -67,7 +67,7 @@ For me, time is infinity, but without a return, those are irreversible
 Well, for me time is the measurement of the succession events, one after another. And it feels different depending on what you are doing. It's going fast or slow. As the Theory of relativity says. I also have heard that it's also called the 4th dimension.
 It has the characteristic of being completely continuous and unstoppable, somehow swallowing everything in its path. It can be terrifying to know that in a certain way nothing is really certain of being, since time is destroying and creating lots of scenarios every second, scenarios and situations that will never be repeated in exactly the same way, gradually approaching the end of all. However, we can see our daily life having only the present without staying in the past or anticipating the future, but living each moment fully attending to the context of that moment. However, we can see our life only paying attention to the present, not staying in the past, or thinking of the future but plenty living each moment, according to the context of that specific moment
 
-## Peregrin (46)
+## Peregrin (38)
 
 Everything in this world is relative.  For example, the length of a minute depends on which side of the toilet door you are on.
 

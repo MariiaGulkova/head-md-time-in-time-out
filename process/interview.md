@@ -71,3 +71,44 @@ It has the characteristic of being completely continuous and unstoppable, someho
 
 Everything in this world is relative.  For example, the length of a minute depends on which side of the toilet door you are on.
 
+## Vitalik (36)
+
+Time is movement.
+
+## Nastia (26)
+
+Time for me is something very important in understanding
+This is the ONLY thing that everyone can control in their life, it does not depend on the circumstances, etc., even if you are in prison, for example, you can read
+But this is something that, unfortunately, no one usually controls properly
+
+## Misha (25)
+
+Time is a train in which living organisms jump and jump
+
+## Tania (35)
+
+The question "What is time for you?"
+And my answer to this, as in the majority, is based precisely on the life of a person, so it is not about selfishness, and even more so not with a minus sign), but the reproduction of one's own experience as a person.
+In addition, time cannot be felt by those classic 6 senses for creatures (taste, touch, hearing, and even sight). This is pure philosophy, and philosophy is a purely human property)
+
+## Karina (23)
+
+Time for me is still a lush green tree from which one leaf at a time is slowly falling
+The leaves represent lost opportunities and the passage of years, life, etc
+
+
+## Olga (14)
+
+Time is money
+
+## Anna (14)
+
+Time is hours
+
+## Ric(63)
+
+Time for me have a physical side - when it goes from the past to the future clear directly. From the other side, it's doesn't have a clear direction, from example 1 min and 1 day can feel different, depending on how and with whom you spent this time
+
+## Svetlana (78)
+
+Time is fleeting when we are happy, we have achieved what we want and it drags on slowly When we feel bad, but life gives us time to go through everything and it's wonderful

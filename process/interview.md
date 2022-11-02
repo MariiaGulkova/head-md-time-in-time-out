@@ -111,7 +111,7 @@ Time for me have a physical side - when it goes from the past to the future clea
 
 ## Svetlana (78)
 
-Time is fleeting when we are happy, we have achieved what we want and it drags on slowly When we feel bad, but life gives us time to go through everything and it's wonderful
+Time is fleeting when we are happy and have achieved what we want. And stretches slowly when we feel bad. But life gives us time to go through everything and it's wonderful
 
 ### Kirill(19)
 

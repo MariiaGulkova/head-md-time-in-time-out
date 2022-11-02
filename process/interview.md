@@ -25,7 +25,7 @@ Well, time is a resource and something frightening, objectively
 As a gift from the Higher powers
 It gives experience that turns into life wisdom, with the recollection of past emotions and feelings.
 
-### Kirill(19) and Katerina(14)
+### Katerina(14)
 
 For me it doesn't exist
 
@@ -112,3 +112,7 @@ Time for me have a physical side - when it goes from the past to the future clea
 ## Svetlana (78)
 
 Time is fleeting when we are happy, we have achieved what we want and it drags on slowly When we feel bad, but life gives us time to go through everything and it's wonderful
+
+### Kirill(19)
+
+Time for me is "the boundaries of life"

@@ -83,7 +83,7 @@ But this is something that, unfortunately, no one usually controls properly
 
 ## Misha (25)
 
-Time is a train in which living organisms jump and jump
+Time is a train in which living organisms jump and jump out
 
 ## Tania (35)
 
@@ -111,7 +111,7 @@ Time for me have a physical side - when it goes from the past to the future clea
 
 ## Svetlana (78)
 
-Time is fleeting when we are happy and have achieved what we want. And stretches slowly when we feel bad. But life gives us time to go through everything and it's wonderful
+Time is fleeting when we are happy and have achieved what we want. And flows slowly when we feel bad. But life gives us time to go through everything and that's wonderful
 
 ### Kirill(19)
 

@@ -12,5 +12,8 @@ Hey, I’m Nastia. I’m 19 years old. Time for me is a resource, a currency. I 
 ## Peregrin - 38
 Hey, I’m Peregrin. I’m 38 years old. Everything in my life is relative. In the morning I was late for the train and time passed very quickly for me. But at lunchtime, when I really wanted to go to the toilet, and he was busy, time flowed very slowly for me. My time is relative, but at the same time measured
 
+## Stanislav - 54
+Hey, I’m Stanislav. I’m 54 years old. And my time is controlled by higher powers. They decide whether my time flows faster due to happy moments of feelings, or slowly, due to trials that, at the behest of higher powers, I have to go through.
+
 ## Svetlana - 78
 Hey, I’m Svetlana. I’m 78 years old. When I'm happy, time passes faster, when I'm sad, time passes very slowly. But I have more than enough time to get through the difficulties and be happy. Time is beautiful and it's not in a hurry

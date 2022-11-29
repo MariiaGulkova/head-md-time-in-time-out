@@ -1,3 +1,3 @@
 ## Structure for twine
 
-![Boat shedule](image/structure.png)
+![Boat shedule](images/structure.png)

@@ -35,3 +35,17 @@ puppet theatre:
 
 ![Boat shedule](images/image_11.png)
 ![Boat shedule](images/image_12.png)
+
+My output will be the voice, and to show a special rhythm for each story, i will use intonation and special sounds ( like vrrr or bruuum for silas) - load, quit etc
+For voice reproduction in Arduino I will use MP3 arduino (or analogy) (or put in arduino small SD or put it somehow in Code(maybe better SD))
+Should make twine for my voice story
+My input - ?
+My shape - ?
+(the light of the indicators depends on the intensity of the voice (from attenuation to bright and vice versa)(for diff chara diff group of color) // just an idea
+
+//В Сказке о молодильных яблоках и живой воде говорится: Едучи путем-дорогою, близко ли, далеко ли, низко ли, высоко ли, скоро сказка сказывается, да не скоро дело делается, наконец приехал он в чистое поле, в зеленые луга. А в чистом поле лежит камень, на нем надпись написана: "Направо поедешь — богату быть, коня потерять. Налево поедешь – коня спасать, быть голодну да холодну. Прямо поедешь – убиту быть"//
+
+
+Excerpt from a folk tale:
+"If you go to the right, you will be rich, but you will lose your horse. If you go to the left, you will save your horse, but you will lose yourself. If you go straight, you will be killed"
+3-axis gyroscope and accelerometer GY-521 (MPU 6050) - GY-521 module with gyroscope, accelerometer and thermometer based on the MPU-6050 chip is used in amateur robotics to determine the position in space.

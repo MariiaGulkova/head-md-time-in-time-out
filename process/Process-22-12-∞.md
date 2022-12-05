@@ -14,7 +14,7 @@ Svetlana - 78
 
 Hey, I’m Svetlana. I’m 78 years old. When I'm happy, time passes faster, when I'm sad, time passes very slowly. But I have more than enough time to get through the difficulties and be happy. Time is beautiful and it's not in a hurry //
 
-The idea is to make a puppet theater inside the gadget, which will be accompanied at certain points in the plot by vibration, light, and may be sound
+### The idea is to make a puppet theater inside the gadget, which will be accompanied at certain points in the plot by vibration, light, and may be sound
 
 The main part of the body will be on the wrist, ((while the other can be squeezed in the hand(maybe))
 

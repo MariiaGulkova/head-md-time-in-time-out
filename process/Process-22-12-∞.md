@@ -1,5 +1,7 @@
 ## Time travelers 
 
+### 2022-12-3-4
+
 // Update Scope
 
 Silas - 4
@@ -35,6 +37,8 @@ puppet theatre:
 
 ![Boat shedule](images/image_11.png)
 ![Boat shedule](images/image_12.png)
+
+### 2022-12-5
 
 - My output will be the voice, and to show a special rhythm for each story, i will use intonation and special sounds ( like vrrr or bruuum for silas) load, quit etc
 - For voice reproduction in Arduino I will use MP3 arduino (or analogy) (or put in arduino small SD or put it somehow in Code(maybe better SD))

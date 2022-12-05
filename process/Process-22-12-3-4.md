@@ -14,3 +14,5 @@ Which materials would you like to use? - silicon or plastic
 
 Possible output - light, vibration, warm, voice
 Possible input - ?????? (choice in a story)
+
+![Boat shedule](images/image_10.png)

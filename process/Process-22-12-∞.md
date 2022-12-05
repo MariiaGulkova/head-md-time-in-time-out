@@ -49,3 +49,5 @@ My shape - ?
 Excerpt from a folk tale:
 "If you go to the right, you will be rich, but you will lose your horse. If you go to the left, you will save your horse, but you will lose yourself. If you go straight, you will be killed"
 3-axis gyroscope and accelerometer GY-521 (MPU 6050) - GY-521 module with gyroscope, accelerometer and thermometer based on the MPU-6050 chip is used in amateur robotics to determine the position in space.
+![Boat shedule](images/image_21.png)
+![Boat shedule](images/MoodBoard.png)

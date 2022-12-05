@@ -55,6 +55,8 @@ puppet theatre:
 
 #### That is, in my story it will be like a roulette wheel, and what story you will hear will depend on the direction of turning the hand.
 
+##### input - turning the hand
+
 3-axis gyroscope and accelerometer GY-521 (MPU 6050) - GY-521 module with gyroscope, accelerometer and thermometer based on the MPU-6050 chip is used in amateur robotics to determine the position in space.
 
 

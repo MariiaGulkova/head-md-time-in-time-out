@@ -17,3 +17,7 @@ Possible input - ?????? (choice in a story)
 
 ![Boat shedule](images/image_10.png)
 
+puppet theatre:
+
+![Boat shedule](images/image_11.png)
+![Boat shedule](images/image_12.png)

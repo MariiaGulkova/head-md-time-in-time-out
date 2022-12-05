@@ -51,3 +51,7 @@ Excerpt from a folk tale:
 3-axis gyroscope and accelerometer GY-521 (MPU 6050) - GY-521 module with gyroscope, accelerometer and thermometer based on the MPU-6050 chip is used in amateur robotics to determine the position in space.
 ![Boat shedule](images/image_21.png)
 ![Boat shedule](images/MoodBoard.png)
+
+![Boat shedule](images/screenshot.jpeg)
+
+

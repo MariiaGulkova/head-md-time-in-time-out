@@ -1,6 +1,4 @@
-## Time travelers
-
-The idea is to make a gadget that can work with a battery. 
+## Time travelers 
 
 The idea is to make a puppet theater inside the gadget, which will be accompanied at certain points in the plot by vibration, light, and may be sound
 

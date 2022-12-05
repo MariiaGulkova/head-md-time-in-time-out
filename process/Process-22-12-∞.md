@@ -55,8 +55,11 @@ puppet theatre:
 
 
 ![Boat shedule](images/image_21.png)
+
+### Mood Board
 ![Boat shedule](images/MoodBoard.png)
 
+### Sketch of shape
 ![Boat shedule](images/screenshot.jpeg)
 
 

@@ -71,4 +71,4 @@ puppet theatre:
 
 
 ### First try
-![Boat shedule](images/first_try.png)
+![Boat shedule](images/IMG_0021.HEIC)

@@ -70,6 +70,3 @@ puppet theatre:
 ![Boat shedule](images/screenshot.jpeg)
 
 
-### First try
-![Boat shedule](images/IMG_0021.HEIC)
-

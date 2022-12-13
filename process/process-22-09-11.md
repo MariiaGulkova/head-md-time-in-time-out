@@ -4,4 +4,4 @@
 
 ![Boat shedule](images/references.png)
 
-![Boat shedule](images/story_boardV1.heic)
+![Boat shedule](images/storyboardV1.jpeg)

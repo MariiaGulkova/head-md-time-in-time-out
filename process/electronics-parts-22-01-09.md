@@ -12,4 +12,4 @@
 
 ### Fritzing
 
-![Boat shedule](images/breadboard diagram.png)
+![Boat shedule](images/breadboard_diagram.png)

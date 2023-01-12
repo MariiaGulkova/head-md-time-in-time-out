@@ -9,4 +9,4 @@
 ### 3d shape version 3 printed
 
 
-![Boat shedule](images/3dV3.png)
+![Boat shedule](images/3dv3.png)

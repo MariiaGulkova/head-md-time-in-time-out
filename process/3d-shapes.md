@@ -5,3 +5,8 @@
 ### 3d shape version 2 printed
 
 ![Boat shedule](images/3dV1.jpeg)
+
+### 3d shape version 3 printed
+
+
+![Boat shedule](images/3dV3.png)
